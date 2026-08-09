@@ -246,12 +246,12 @@ export default function Closing() {
           {[
             {
               label: "Presentation & Written by",
-              value: "Sua Amiga",
+              value: "Duda Cabeçuda",
               isLink: false,
             },
             {
               label: "Developed by",
-              value: "Karlão",
+              value: "Danniel Lima",
               isLink: false,
             },
             {
